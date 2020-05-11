@@ -18,6 +18,8 @@ Aula 3
 0. Estruturas de repetição while/do while for/foreach
 0. Estruturas de dados (lista, tuplas, sets, dicionarios)
 0. Utilizando bibliotecas próprias e de terceiros
+0. Tratamento de exceções
+0. Funções avançadas (enumerate, filter, map, zip)
 0. Conceitos básicos de POO
 0. POO em python
 0. Testes
